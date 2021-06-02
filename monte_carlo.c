@@ -38,7 +38,6 @@ int main(void) {
     }
   }
 }
-
 float mc_pi(int darts)
 {
 int count=0;
